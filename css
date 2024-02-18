@@ -1,0 +1,107 @@
+body {
+  font-family: Arial;
+    background: #b7b8b8;
+}
+
+h2, p, .readme-wrapper {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  cursor: pointer;
+  font-weight: bold;
+  color: Red;
+}
+
+.highlight {
+  background: yellow;
+  font-weight: bold;
+}
+
+.boxes {
+  display: block;
+  margin: .2em;
+  padding: .1em;
+  border: solid #0700a3 1em;
+  border-radius: 2em;
+  width: 30em;
+}
+
+#box1 {
+ background: #ff8c8e; 
+}
+
+#box2 {
+  background: #c66fff;
+}
+
+#box3 {
+  background: #94ebff;
+}
+
+#box4 {
+  background: #5fff95
+}
+
+.images {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  position: relative;
+  top: 2em;
+  left: 5em;
+  background: purple;
+}
+
+h1 {
+  color: red;
+}
+
+.original {
+  color: purple;
+}
+
+.additional {
+  color: green;
+}
+
+#show1 {
+  color: orange;
+}
+
+#show2 {
+  color: yellow;
+}
+
+#show3 {
+  color: pink;
+}
+
+#show4 {
+  color: brown;
+}
+
+#show5 {
+  color: teal;
+}
+
+ul {
+  color: red;
+}
+
+.star {
+  color: green;
+}
+
+#wars {
+  color: purple;
+}
+
+.lists {
+  border: 2px solid black;
+}
